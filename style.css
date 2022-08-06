@@ -1,0 +1,37 @@
+body{
+    background-color: #000000;
+    text-align: center;
+}
+input{
+    margin: 500px auto 100px;
+    width: 550px;
+    height: 40px;
+    display: block;
+    text-align: center;
+}
+#output{
+    margin-top: 50px;
+    width: 100px;
+    background: #000000;
+    margin: 100px auto 100px;
+    color: #ffffff;
+}
+#btn{
+    width: 300px;
+    height: 100px;
+    border-style: none;
+    border-radius: 20px;
+    text
+}
+#btn:hover{
+    width: 300px;
+    height: 100px;
+    color: #ffffff;
+    background-color: brown;
+    border-style: none;
+    border-radius: 20px;
+    text
+}
+h1{
+    font-family: Georgia, serif;
+}
